@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\bin\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.exe
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\bin\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.deps.json
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\bin\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\bin\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\bin\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.dll
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\bin\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\obj\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\obj\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\obj\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\obj\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\obj\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.dll
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\obj\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\Lista_de_ObjetosPOO\obj\Debug\netcoreapp3.1\Lista_de_ObjetosPOO.genruntimeconfig.cache
